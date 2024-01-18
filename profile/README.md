@@ -10,6 +10,6 @@ Lenses core components are:
 
 To find out try lenses out head over [here](https://lenses.io).
 
-Documentation can be found [here](https://docs.lenses.io)
+Documentation can be found [here](https://docs.lenses.io).
 
 Looking for open source Apache 2.0 Kafka Connectors, with enterprize support, checkout the Stream Reactor repo.

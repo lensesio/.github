@@ -1,6 +1,4 @@
-Lenses is a developer experience for streaming data operations.
-
-It enables developers to self-serve and operate any Apache Kafka instance, reducing the cost and complexity of building real-time data pipelines and applications.
+Lenses is a developer experience for streaming data operations, enabling developers to self-serve and operate any Apache Kafka instance, reducing the cost and complexity of building real-time data pipelines and applications.
 
 Lenses core components are:
 
